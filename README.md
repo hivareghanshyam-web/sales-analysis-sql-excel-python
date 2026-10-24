@@ -52,4 +52,7 @@ sales-analysis-sql-excel-python/
 - Add screenshots of charts and a concise findings section.
 
 ## Author
-Add your name and GitHub profile URL here.
+Ghanshyam Hivare 
+hivareghanshyam@gmail.com
+Linkedin:-www.linkedin.com/in/ghanshyam-hivare45
+
